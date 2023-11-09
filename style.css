@@ -1,0 +1,45 @@
+.custom-text {
+    font-size : 20px /* Adjust the font size as needed */;
+    font-family  : Georgia;
+    font-size: 16px;
+    color: red;
+}
+ 
+
+.movie-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: column;  
+}
+
+/* Style for each movie tile */
+.movie-tile {
+    width: 100%; /* Adjust the width as needed to display  movies in a row */
+    flex: 1;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    text-align: center;
+    text-wrap: wrap; 
+}
+ 
+/* Style for movie poster image */
+.movie-poster {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Style for movie title */
+.movie-title {
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+/* Style for movie genre */
+.movie-genre {
+    color: #777; 
+}
+
+ 
+ 
