@@ -12,7 +12,7 @@ Welcome to the Movie Recommendation System based on Collaborative Filtering. Thi
 - Python 3.10 : Core programming language.
 - streamlit: Web framework for the movie recommendation system's.
 - Pandas, NumPy, Scikit-learn: Libraries for data manipulation and collaborative filtering.
-- Datasets:  Datasets used for storing data for user interactions and movie data.
+- Datasets: https://huggingface.co/datasets/ashraq/movielens_ratings. 
 
 ## Installation
 
