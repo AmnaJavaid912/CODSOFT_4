@@ -20,5 +20,5 @@ To set up the movie recommendation system, follow these steps:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/movie-recommendation.git
+   git clone https://github.com/AmnaJavaid912/CODSOFT_4.git
    cd movie-recommendation
